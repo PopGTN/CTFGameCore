@@ -1,0 +1,5 @@
+name: CTFGameCore
+version: '${project.version}'
+main: ca.joshuamc.ctfgamecore.CTFGameCore
+api-version: '1.20'
+load: STARTUP
